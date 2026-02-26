@@ -49,7 +49,5 @@ Instead of giving the answer right away, try asking:
 
 Coding builds confidence when children discover answers themselves.
 
-- Happy Coding Sandhya
-
 Happy coding 💛
 — Sandhya
