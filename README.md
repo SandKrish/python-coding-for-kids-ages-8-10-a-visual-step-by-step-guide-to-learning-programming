@@ -1,6 +1,6 @@
 # Python-Coding-for-Kids-Ages-8-10-A-Visual-Step-by-Step-Guide-to-Learning-Programming
 
-## 🐍 Python Coding for Kids – Extra Practice
+## 🐍 Python Coding for Kids
 
 Hi there 👋
 
