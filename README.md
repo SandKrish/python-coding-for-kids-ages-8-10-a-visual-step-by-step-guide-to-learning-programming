@@ -1,11 +1,7 @@
 # Python-Coding-for-Kids-Ages-8-10-A-Visual-Step-by-Step-Guide-to-Learning-Programming
 
 ## 🐍 Python Coding for Kids
-
-Hi there 👋
-
-If you’re here, it probably means you’re working through Python Coding for Kids and want a little more practice.  
-That’s exactly why this space exists.
+This book is written specifically for kids, with a clear and simple approach that makes learning Python easy and enjoyable.
 
 ---
 
@@ -15,7 +11,10 @@ Check out the animated video for this lesson:
 
 👉 https://www.youtube.com/watch?v=Yjl-YnDJgeg
 
+## 🧪 Where you can read
 
+You can read at kindle freely 
+https://www.amazon.in/Python-Coding-Kids-Step-Step-ebook/dp/B0GNXBKC8W
 ---
 
 ## 👩‍👦 Who Is This For?
@@ -32,7 +31,6 @@ That’s part of learning.
 
 ---
 
-## 🧪 How to Use This
 
 You don’t need to rush through everything.
 
